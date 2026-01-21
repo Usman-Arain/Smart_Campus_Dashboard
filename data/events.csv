@@ -1,0 +1,51 @@
+event_id,event_name,event_type,date,location,expected_attendance
+1,Cultural Event 1,Tech,2026-02-08,Cisneroshaven,191
+2,Art Event 2,Sports,2026-04-07,Lisastad,146
+3,Music Event 3,Music,2026-02-10,West Jeremy,68
+4,Tech Event 4,Sports,2026-03-12,Glassstad,35
+5,Tech Event 5,Tech,2026-03-08,Lake Heather,135
+6,Tech Event 6,Tech,2026-02-17,West Phillipville,193
+7,Cultural Event 7,Sports,2026-03-23,Port Maria,148
+8,Music Event 8,Art,2026-02-09,East Rebeccaton,52
+9,Tech Event 9,Cultural,2026-02-03,Haysfort,160
+10,Tech Event 10,Cultural,2026-04-10,New Hannah,114
+11,Tech Event 11,Sports,2026-01-23,Seanborough,133
+12,Music Event 12,Cultural,2026-02-22,Port Dennismouth,36
+13,Tech Event 13,Tech,2026-03-22,East John,33
+14,Art Event 14,Art,2026-02-06,West Bethanyhaven,145
+15,Sports Event 15,Art,2026-02-25,Spearsshire,130
+16,Sports Event 16,Sports,2026-01-29,Cortezfurt,64
+17,Art Event 17,Tech,2026-04-09,Dayside,78
+18,Cultural Event 18,Cultural,2026-02-19,Bestland,41
+19,Tech Event 19,Art,2026-02-08,Williamston,63
+20,Tech Event 20,Sports,2026-04-03,Port Timothy,136
+21,Cultural Event 21,Cultural,2026-04-06,South Robert,157
+22,Art Event 22,Sports,2026-03-12,Port Carlosborough,178
+23,Tech Event 23,Cultural,2026-03-16,Hendersonshire,163
+24,Cultural Event 24,Sports,2026-03-31,East Michaelberg,151
+25,Music Event 25,Tech,2026-01-31,Carlsonside,96
+26,Tech Event 26,Tech,2026-03-06,Johnborough,153
+27,Music Event 27,Tech,2026-03-05,North Scottfurt,41
+28,Music Event 28,Music,2026-02-17,Lloydfurt,174
+29,Cultural Event 29,Sports,2026-04-07,West Elizabethville,53
+30,Tech Event 30,Music,2026-01-22,Melaniemouth,148
+31,Cultural Event 31,Tech,2026-03-28,West Angelafort,68
+32,Tech Event 32,Cultural,2026-02-27,West Vincentmouth,71
+33,Cultural Event 33,Sports,2026-02-03,West Dawn,165
+34,Music Event 34,Tech,2026-03-02,Shelbyfort,34
+35,Music Event 35,Music,2026-03-10,Ballardburgh,151
+36,Art Event 36,Tech,2026-02-03,Downsport,198
+37,Sports Event 37,Art,2026-03-31,New Juliehaven,139
+38,Tech Event 38,Cultural,2026-03-26,Barnesfort,200
+39,Sports Event 39,Sports,2026-04-03,Lawsonchester,131
+40,Art Event 40,Music,2026-02-25,Colonshire,177
+41,Art Event 41,Cultural,2026-01-25,Marshallview,164
+42,Music Event 42,Art,2026-03-07,Lake Tommy,101
+43,Music Event 43,Sports,2026-03-15,North Jacob,65
+44,Art Event 44,Music,2026-03-24,Lake Heidi,131
+45,Tech Event 45,Cultural,2026-04-02,Stephanieside,134
+46,Art Event 46,Tech,2026-02-17,Port Mary,174
+47,Art Event 47,Art,2026-03-07,Dannyfort,157
+48,Cultural Event 48,Music,2026-02-26,Robertshire,55
+49,Art Event 49,Cultural,2026-04-04,South Kaylaburgh,160
+50,Tech Event 50,Tech,2026-02-08,Bethbury,44

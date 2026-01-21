@@ -1,0 +1,201 @@
+student_id,available,skill,rating
+1,False,Tech Support,4.4
+2,True,Tech Support,3.6
+3,False,Tech Support,3.5
+4,True,Organizing,3.3
+5,False,First Aid,4.9
+6,False,Tech Support,5.0
+7,False,Organizing,4.1
+8,False,First Aid,4.5
+9,True,First Aid,3.0
+10,False,Logistics,3.4
+11,False,Tech Support,4.5
+12,True,Logistics,3.5
+13,False,Organizing,4.5
+14,True,Logistics,3.6
+15,False,First Aid,3.1
+16,False,First Aid,4.9
+17,True,Tech Support,3.0
+18,True,First Aid,4.4
+19,True,First Aid,3.6
+20,False,Logistics,4.5
+21,False,Organizing,4.5
+22,False,Logistics,4.3
+23,True,Logistics,3.1
+24,True,Tech Support,3.2
+25,False,Tech Support,4.5
+26,False,Logistics,3.1
+27,True,Tech Support,4.3
+28,False,Organizing,4.7
+29,True,Organizing,4.3
+30,False,Organizing,3.6
+31,True,Logistics,4.5
+32,False,Organizing,4.1
+33,True,Organizing,4.4
+34,True,First Aid,3.6
+35,True,Organizing,4.8
+36,True,First Aid,3.5
+37,False,Tech Support,3.1
+38,True,First Aid,4.0
+39,False,Tech Support,4.1
+40,True,Organizing,5.0
+41,True,Logistics,3.6
+42,False,First Aid,3.3
+43,False,Tech Support,4.7
+44,False,First Aid,3.6
+45,True,Logistics,3.6
+46,True,First Aid,4.5
+47,True,Organizing,3.1
+48,True,Logistics,4.8
+49,True,Tech Support,3.2
+50,True,Tech Support,4.2
+51,False,First Aid,4.3
+52,True,Tech Support,3.0
+53,True,Tech Support,4.2
+54,True,Tech Support,3.2
+55,False,Logistics,3.5
+56,True,Tech Support,3.7
+57,True,Tech Support,3.8
+58,False,Organizing,3.3
+59,False,Tech Support,4.9
+60,True,Logistics,3.4
+61,True,Organizing,4.0
+62,False,Tech Support,4.8
+63,False,First Aid,4.0
+64,True,Tech Support,4.4
+65,False,Logistics,4.6
+66,False,Logistics,5.0
+67,False,Tech Support,4.1
+68,False,Tech Support,4.9
+69,True,Organizing,3.5
+70,False,Tech Support,4.4
+71,False,Tech Support,3.0
+72,False,First Aid,3.7
+73,False,Organizing,3.8
+74,True,Tech Support,3.5
+75,False,First Aid,3.8
+76,False,Tech Support,3.7
+77,False,Organizing,4.2
+78,False,Organizing,3.7
+79,True,Organizing,4.5
+80,True,First Aid,4.5
+81,True,First Aid,5.0
+82,False,Tech Support,4.7
+83,False,Tech Support,4.7
+84,False,Organizing,4.1
+85,False,Organizing,4.1
+86,True,First Aid,4.5
+87,True,Logistics,3.3
+88,False,First Aid,3.9
+89,False,Logistics,4.9
+90,True,First Aid,4.5
+91,False,Tech Support,3.4
+92,True,Logistics,4.7
+93,False,First Aid,4.0
+94,False,Tech Support,3.4
+95,False,Tech Support,3.8
+96,False,Logistics,4.2
+97,False,Logistics,3.5
+98,False,First Aid,4.5
+99,True,First Aid,3.7
+100,True,Tech Support,4.1
+101,False,First Aid,4.7
+102,False,Organizing,3.8
+103,True,Organizing,3.8
+104,False,Organizing,4.2
+105,True,Organizing,4.0
+106,True,First Aid,3.7
+107,False,Logistics,3.9
+108,True,Organizing,3.8
+109,True,Logistics,3.2
+110,True,Logistics,4.7
+111,False,First Aid,4.3
+112,False,Organizing,4.5
+113,True,First Aid,4.8
+114,False,First Aid,4.8
+115,True,First Aid,4.4
+116,True,Logistics,4.9
+117,True,Tech Support,3.7
+118,False,Logistics,3.5
+119,False,First Aid,4.5
+120,True,Organizing,3.4
+121,True,Organizing,4.5
+122,True,Tech Support,4.8
+123,False,First Aid,4.8
+124,False,Tech Support,4.9
+125,False,First Aid,4.5
+126,True,Logistics,4.9
+127,True,Organizing,4.0
+128,False,Logistics,4.9
+129,False,Organizing,3.1
+130,True,Logistics,3.5
+131,True,First Aid,4.7
+132,True,Organizing,4.0
+133,True,First Aid,3.7
+134,True,Logistics,3.8
+135,True,First Aid,3.1
+136,True,Organizing,4.4
+137,False,Organizing,3.3
+138,False,Logistics,3.2
+139,False,Tech Support,3.4
+140,False,Logistics,4.7
+141,False,Tech Support,4.3
+142,False,Logistics,4.5
+143,False,First Aid,3.9
+144,False,Organizing,3.2
+145,True,First Aid,4.0
+146,False,Tech Support,4.2
+147,False,Organizing,3.4
+148,True,Logistics,4.7
+149,True,Tech Support,3.4
+150,True,Logistics,4.8
+151,True,Tech Support,4.6
+152,True,Tech Support,4.6
+153,False,Logistics,3.9
+154,True,Tech Support,3.6
+155,False,Organizing,4.8
+156,True,Tech Support,4.1
+157,True,Organizing,3.0
+158,False,Organizing,4.7
+159,True,Tech Support,3.4
+160,True,Organizing,4.4
+161,False,Tech Support,4.8
+162,True,Tech Support,4.6
+163,False,Logistics,3.8
+164,False,Organizing,5.0
+165,True,Organizing,4.5
+166,True,Tech Support,4.6
+167,True,Tech Support,3.1
+168,True,Logistics,3.4
+169,True,Tech Support,3.8
+170,False,Tech Support,4.0
+171,False,Tech Support,3.1
+172,False,First Aid,4.2
+173,True,Logistics,3.8
+174,True,Organizing,4.1
+175,True,Organizing,3.8
+176,False,First Aid,4.8
+177,False,First Aid,4.0
+178,False,First Aid,4.7
+179,True,Tech Support,3.7
+180,True,First Aid,4.8
+181,True,First Aid,3.4
+182,True,Tech Support,3.7
+183,True,Tech Support,4.3
+184,True,Tech Support,4.0
+185,True,First Aid,4.7
+186,False,Tech Support,3.7
+187,False,Organizing,4.6
+188,True,Organizing,3.6
+189,True,Tech Support,3.6
+190,True,Tech Support,4.5
+191,False,Tech Support,3.1
+192,False,Tech Support,4.7
+193,False,Tech Support,3.3
+194,True,Logistics,4.7
+195,False,Tech Support,4.0
+196,False,Organizing,4.6
+197,True,Logistics,3.2
+198,True,Organizing,4.1
+199,True,Organizing,4.1
+200,False,Organizing,3.3

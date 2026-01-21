@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+opencv-python
+ultralytics
+torch
+transformers
+sentence-transformers
+streamlit
+jupyter
